@@ -12,9 +12,9 @@ This task involves analyzing an **Amazon Sales Dataset (20,000 records)** using 
 
 ##  Included Files
 
-* `Amazon-Sales Report (Dashboard).pbix` – Power BI dashboard project
-* `[Amazon-Sales Report.xlsx](https://github.com/user-attachments/files/20576007/Amazon-Sales.Report.xlsx)` – Original data source
-* `![Dashboard Screenshot](https://github.com/user-attachments/assets/eb325788-c060-4976-8a10-099410d22940)` – Preview of completed dashboard
+* Amazon-Sales Report (Dashboard).pbix – Power BI dashboard project
+* [Amazon-Sales Report.xlsx](https://github.com/user-attachments/files/20576007/Amazon-Sales.Report.xlsx) – Original data source
+* ![Dashboard Screenshot](https://github.com/user-attachments/assets/eb325788-c060-4976-8a10-099410d22940) – Preview of completed dashboard
 
 ---
 
